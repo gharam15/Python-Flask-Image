@@ -1,4 +1,4 @@
-![Description](/Python-Flask-Image/Flask.png)
+![Description](Flask.png)
 
 in your terminal (in the same folder as the Dockerfile), run:
 
